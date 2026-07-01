@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0062/zw/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天台教典入藏考
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW05/ZW05n0050.xml
+    old_id: ZW05n0050
+hash: sha256:805d9f410b6312d42a46f32097d47cfff09f26692507b8cd3301c441e6c3dad9

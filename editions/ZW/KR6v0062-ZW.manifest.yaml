@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR6v0062/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0062/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天台教典入藏考
+  identifiers:
+    krp: KR6v0062
+    cbeta: ZW05n0050
+    cbeta_old_id: ZW05n0050
+    authorityid: CA0008449
+    json_key: ZW0050
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW05/ZW05n0050.xml
+    old_id: ZW05n0050
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0062_000-ZW.yaml, hash: 'sha256:805d9f410b6312d42a46f32097d47cfff09f26692507b8cd3301c441e6c3dad9'}
+  - {seq: 1, filename: KR6v0062_001-ZW.yaml, hash: 'sha256:c17b28c78439d8db0ab8816a3e1629a161c8c2ce4f8b60bab478bee0cf2ef73d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0062_000-ZW.markers.yaml, hash: 'sha256:cb110f8a4ce6f45c56ab02600ad983509954b85b81de1b4445e4081efd285513'}
+  - {seq: 1, role: markers, filename: assets/KR6v0062_001-ZW.markers.yaml, hash: 'sha256:a1ffe89e71fafcc7949ed790ac57a63fe64334649eb51170c457a62ae573c524'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 7405
+  label: 天台教典入藏考
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-1
+    span:
+    - body
+    - 3
+    - 3
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-2
+    span:
+    - body
+    - 211
+    - 211
+  label: 一、隋代入藏考辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-3
+    span:
+    - body
+    - 1938
+    - 1938
+  label: 二、天聖入藏考辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-4
+    span:
+    - body
+    - 1945
+    - 1945
+  label: １、入藏時間
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-5
+    span:
+    - body
+    - 2396
+    - 2396
+  label: ２、所繫帙號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-6
+    span:
+    - body
+    - 2708
+    - 2708
+  label: ３、從《天聖釋教總錄》看天台教典的入藏及帙號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-7
+    span:
+    - body
+    - 3816
+    - 3816
+  label: ４、問題的提出
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-8
+    span:
+    - body
+    - 4678
+    - 4678
+  label: ５、《開寶藏》的流通形態
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-9
+    span:
+    - body
+    - 5655
+    - 5655
+  label: ６、問題的癥結
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-10
+    span:
+    - body
+    - 7047
+    - 7047
+  label: ７、結論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0062_ZW_001-mulu-11
+    span:
+    - body
+    - 7290
+    - 7290
+  label: ８、餘論
+  type: mulu
+  level: 1
+hash: sha256:2dfb3c852bdf278ee96d976c8020e0a52e1ed7b1f0c4ea4472391372a1bea92a
